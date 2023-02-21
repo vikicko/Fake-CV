@@ -1,0 +1,62 @@
+
+body {
+  background-color: #C0DEFF;
+  font-family: 'Lucida Sans'
+}
+
+hr {
+  border-color: #810CA8;
+  border-style: dotted none none;
+  width: 70%;
+  border-width: 7px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+h1{
+  color: #810ca8;
+  font-size: 30px;
+} 
+
+
+h4{
+  color: #810ca886;
+}
+
+thead{
+  background-color: #a741c9c4;
+  color: white;
+}
+
+img{
+  width: 15%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+h1, p, h2, h3, h4 {
+  text-align:center;
+}
+
+p{
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table{
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.list{
+  list-style-position: inside;
+  text-align: center;
+ }
+
+ li::marker{
+  content: '🖤'
+}
